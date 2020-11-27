@@ -2,7 +2,7 @@
 
 ## master (unreleased)
 
-Nothing here yet.
+- Fix Russia 2020 holidays (#578).
 
 ## v14.0.0 (2020-11-27)
 
